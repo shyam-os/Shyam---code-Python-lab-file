@@ -1,0 +1,19 @@
+#Write a program to fill in a letter template given below with name 
+and date:
+# By - Shyam Mandora
+# Date of Creation - 12-10-2021
+# Last Modified - 12-10-2021
+
+print('Enter name:')
+x = input()
+print('Enter date:')
+y = input()
+print('Dear ' + x + '\nYou have selected ' + y)
+
+# output : Enter name
+           Ram
+           Enter date
+           12
+           
+           Dear Ram
+           you have selected 12
