@@ -1,0 +1,15 @@
+# python program to detect double spaces
+
+# By - Shyam Mandora
+# Date of Creation - 12-10-2021
+# Last Modified - 12-10-2021
+
+
+string = input("Enter String: ")
+res = "  " in string
+print("Does string contain double space ? " + str(res))
+
+# OUTPUT:- Enter String: Shyam Mandora
+# Does string contain double space ? False
+# Enter String:Shyam Mandora
+# Does string contain double space ? True
