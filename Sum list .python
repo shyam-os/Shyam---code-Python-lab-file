@@ -1,0 +1,13 @@
+# Write a program to sum a list with 4 numbers.
+# By - Shyam Mandora
+# Date of Creation - 12-10-2021
+# Last Modified - 12-10-2021
+
+list = []
+
+for n in range(0,4):
+    numbers = int(input('Enter number '))
+    list.append(numbers)
+print("Sum of elements in given list is : ", sum(list))
+
+# output : Sum of elements in given list is : 10
