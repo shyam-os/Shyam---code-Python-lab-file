@@ -1,8 +1,8 @@
 
 # Q. Write a program to print the sum of first n natural numbers using while loop.
 # By - Shyam Mandora
-# Date of Creation - 30-11-2021
-# Last Modified - 30-11-2021
+# Date of Creation - 30-10-2021
+# Last Modified - 30-10-2021
 # code
 num = int(input("Enter positive Number: "))
 sum = 0
