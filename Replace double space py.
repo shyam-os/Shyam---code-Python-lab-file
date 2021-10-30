@@ -1,0 +1,7 @@
+Q:Replace double spaces with single spaces in previous program
+
+# code
+string = input("Enter String - ")
+if "  " in string:
+   string=string.replace("  "," ") 
+print(string)
